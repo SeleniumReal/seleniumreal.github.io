@@ -30,8 +30,6 @@ twitter_username: SeleniumReal
 github_username:  ReasonablySelenium
 
 # Build settings
-# TODO: Change to a custom theme.
-theme: minima
 plugins:
   - jekyll-feed
 

@@ -1,0 +1,14 @@
+.footer {
+  background: rgb(0, 100, 0);
+  color: white;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+
+  .social-media a {
+    margin: 10px;
+  }
+}
+
