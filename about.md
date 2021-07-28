@@ -14,10 +14,6 @@ Hobbies & Skills:
 - Song Writing
 - Story Writing
 
-Current Operating System:
-
-- Arch Linux
-
 Tools I Use:
 
 - Ardour
@@ -45,17 +41,13 @@ Former Communities:
 - Aclevo (2015-2018, 2019-2020, 2020-2021)
 - Cob:web Development (2021)
 - The Computer Clan (2012-2014, 2016)
-- The Nkrs200 Community (2017-2018)
 - The SFC Group / SFC Productions (2017-2018, 2019-2020)
-
 
 ---
 
 ## Who I Am
 
 I am Reasonably Selenium, a content creator from New England. I love open source software and I encourage people to use it instead of proprietary garbage. The organization I co-own works toward only making free and open source software so that everyone can enjoy software they can easily look at the code for and perhaps even use it in their own projects. Arch Linux is my primary operating operating system that I use every day on my main computer, which is a free and open source operating system.
-
-My goals are to help people with disabilities express their inner talents. I myself have a disability known as Autism Spectrum Disorder, a mental disability that changes the way my brain perceives certain things. I hope to bring positivity and support from what I have experienced, to better the lives of people like me.
 
 ## **FAQ**
 
