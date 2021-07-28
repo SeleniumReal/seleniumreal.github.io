@@ -1,9 +1,11 @@
 ---
 title: "About Me"
-permalink: /about
+permalink: /about/
+layout: home
 ---
 
-<section>
+# About Me
+
 Age: 20
 
 Gender: Male
@@ -13,6 +15,7 @@ Status: Single - Heterosexual
 Location: New England, United States (Exact Location Classified)
 
 Hobbies & Skills: 
+
 - Audio Production
 - Graphic Design
 - Programming
@@ -21,6 +24,7 @@ Hobbies & Skills:
 - Video Production
 
 Tools I Use: 
+
 - Davinci Resolve
 - GIMP
 - Gridsome
@@ -29,6 +33,7 @@ Tools I Use:
 - VS Code
 
 Favorite Video Games:  
+
 - Cities: Skylines
 - Civilization 5
 - Minecraft
@@ -41,24 +46,23 @@ Current Communities:
 - Treehouse Discord
 
 Former Communities: 
+
 - Aclevo (2015-2020)
 - Text To Speech Community (2016?)
 - The Computer Clan (2012-2014, 2016)
 - The Nkrs200 Community (2017-2018)
 - The SFC Group (2017)
 
-</section>
-
-
-
-<section>
+---
 
 ## Who I Am
+
 I am Reasonably Selenium, a content creator from New England that has experience in business ownership, foreign languages, graphic design, logo design, story writing, spreadsheet editing, video editing, song production, and creating ideas. I’ve used several tools in the past to create my content, and I currently use open source software as opposed to proprietary software in order to show my support for the FOSS (Free and Open Source Software) movement. Manjaro Linux is my primary operating operating system that I use every day on my main computer, which is a free and open source operating system based on Arch Linux.
 
 My goals are to help people with disabilities make great art, encourage people with disabilities to accept themselves for the way they are, and to help them find friends who have the same or similar problems. I myself have a disability known as Autism Spectrum Disorder, a mental disability that changes the way my brain perceives certain things. By helping people with what I have, as well as similar conditions, I hope to bring positivity and support from what I have experienced, to better the lives of people like me.
 
 ## **FAQ**
+
 **How much content can I expect for you to post? Do you have a schedule?**
 
 I usually create content when I feel like it on an occasional basis. I don’t really have a schedule for this, so it’s usually whenever I feel like doing it. Please do not expect me to post regularly scheduled content on this blog as I currently have no plans to do so.
@@ -88,5 +92,3 @@ Steam/Telegram/Google Hangouts/YouTube: Reasonably Selenium
 Discord: Reasonably Selenium#3815
 
 *More FAQs soon…*
-
-</section>
