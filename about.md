@@ -6,14 +6,6 @@ layout: home
 
 # About Me
 
-Age: 22
-
-Gender: Male
-
-Status: Single - Heterosexual
-
-Location: New England, United States (Exact Location Classified)
-
 Hobbies & Skills: 
 
 - Business Management
