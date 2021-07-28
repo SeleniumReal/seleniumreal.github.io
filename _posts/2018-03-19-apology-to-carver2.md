@@ -8,7 +8,7 @@ excerpt: Dear Carver;  I screwed up again. I let Aclevo take down the apology
   I kn...
 date: 2018-03-19T04:00:00.000Z
 thumbnail: 
-  src: sign-1719892-1920.e1decf0.b2fa9b94e07d09e436822894080ead0b.png
+  src: sign-1719892-1920.e1decf0.b2fa9b94e07d09e436822894080ead0b.webp
 tags:
   - aclevo
   - apology

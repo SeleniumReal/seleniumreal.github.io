@@ -4,7 +4,7 @@
     <h1>{{ post.title }}</h1>
     <div class="post-hero">
 	{% if post.thumbnail %}
-	    <img src="/assets/img/{{ post.thumbnail.src }}" alt="{{ post.thumbnail.alt }}">
+	    <img src="/assets/img/{{ post.thumbnail.src }}" alt="{{ post.thumbnail.alt }}" loading=lazy>
 	{% endif %}
     </div>
     <p>{{ post.excerpt }}</p>

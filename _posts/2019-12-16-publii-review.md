@@ -6,7 +6,7 @@ excerpt: Over the past few years, I have been using Tumblr and Blogger to host
   to write and store my content in just a few clicks. Both services...
 date: 2019-12-16T05:00:00.000Z
 thumbnail: 
-  src: screenshot-2020-05-09-at-8-35-20-pm.e1decf0.bfbca1ee2f737b18203658b22a411fa3.png
+  src: screenshot-2020-05-09-at-8-35-20-pm.e1decf0.bfbca1ee2f737b18203658b22a411fa3.webp
 tags:
   - Blogger
   - blogging

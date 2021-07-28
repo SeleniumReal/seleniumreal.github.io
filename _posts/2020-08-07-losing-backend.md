@@ -13,7 +13,7 @@ tags:
   - update
   - announcement
 featured_image:
-  src: error-1349562_1280.png
+  src: error-1349562_1280.webp
   alt: Picture of a 404 Error
   title: "Error: Backend not Found... Please try again in another decade!"
 ---

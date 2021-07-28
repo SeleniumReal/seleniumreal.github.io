@@ -8,7 +8,7 @@ excerpt: For those who are wondering, the news is actually real. I have stepped
   since token over my position.
 date: 2020-02-29T05:00:00.000Z
 thumbnail: 
-  src: sign-1719892-1920.e1decf0.b2fa9b94e07d09e436822894080ead0b.png
+  src: sign-1719892-1920.e1decf0.b2fa9b94e07d09e436822894080ead0b.webp
 tags:
   - aclevo
   - announcement

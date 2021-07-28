@@ -8,7 +8,7 @@ excerpt: Welcome back to my new blog everyone. I have decided to switch my main
   to be working on some cha...
 date: 2018-09-14T04:00:00.000Z
 thumbnail: 
-  src: reasonably-selenium-ca-magic-blue.e1decf0.f939b818af868d07892cf49eacca3cfb.png
+  src: reasonably-selenium-ca-magic-blue.e1decf0.f939b818af868d07892cf49eacca3cfb.webp
 tags:
   - announcement
   - content
