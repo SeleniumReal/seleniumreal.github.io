@@ -29,6 +29,15 @@ url: https://seleniumreal.github.io # the base hostname & protocol for your site
 twitter_username: SeleniumReal
 github_username:  ReasonablySelenium
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: "/blog/:title"
+
 # Build settings
 plugins:
   - jekyll-feed
