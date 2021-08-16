@@ -46,4 +46,8 @@ I first found out about Cob:web when Aclevo made the decision to revive Celestia
 ### Merging with Cob:web to make Cob:web-Aclevo
 Fast-forward a few months and Cob:web and it's members started using Discord to talk. I ended up establishing a partnership between them and Aclevo, both founders recieving the Partners role on Aclevo's Discord. After one of the founders betrayed them and left, ideas about acquisations and mergers were being thrown around in the other founder's DMs, but no agreement was made yet. After helping Cob:web for a day, I wanted to do something big for Aclevo to make everyone happy, which is where I got the idea to merge Cob:web and Aclevo together as Cob:web-Aclevo. It ended up succeeding very well, and now Cob:web-Aclevo is here to stay.
 
-### 
+### What's to Come
+I believe that the Cob:web-Aclevo merger is one of the best mergers Aclevo has ever had. The implementation of representative democracy has allowed elected members to vote for the way our group is going. More members have also come and applied to our group, taking our projects to the next level. We are also working on expanding to other content while maintaining focus on free, open source software. In fact, we made a piece of software that allows people who like to write literature to share their work without having to depend on proprietary websites called LiteratureLibre. (We are also planning to have more fun ideas to experiment with in the future. Try to see if you can find the repos.)
+
+## Closing
+I am so happy with the changes that are happening so far. 
