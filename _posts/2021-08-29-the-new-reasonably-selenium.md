@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The New Reasonably Selenium in 2021: What's to Come for Me"
-date: 2021-08-10T04:00:000Z
+date: 2021-08-29T04:00:000Z
 tags:
     - new
     - reasonably selenium
