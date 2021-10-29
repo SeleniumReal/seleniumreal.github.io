@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/seleniy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://seleniumreal.github.io
+  * I am seleniy (https://keybase.io/seleniy) on keybase.
+  * I have a public key ASCNgLtK5-L3-qnQbfGZvX_3xB_d5HbjGZ3z3qkUwkT6Cwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012048e32d60928da73c8c7739ddcd2cbc93ba7709847a86112e66a1e7200f37ddd50a",
+      "host": "keybase.io",
+      "kid": "01208d80bb4ae7e2f7faa9d06df199bd7ff7c41fdde476e3199df3dea914c244fa0b0a",
+      "uid": "202694c04d43cbfe3c5f7a678b290c19",
+      "username": "seleniy"
+    },
+    "merkle_root": {
+      "ctime": 1635534904,
+      "hash": "5e42f2b6761103d8cbc392f49c8a9d55875b3c2351cf1f98a2a0e200642da5b91ebb1bfe7ea1513c008c7e1bbfdd94c2ababc45ebeba42be2d663aef517b289c",
+      "hash_meta": "60753a4ffb6d3b859e54decf9ab1e3c3155b8ed2320e6e3f05d6c520b545398c",
+      "seqno": 21093293
+    },
+    "service": {
+      "entropy": "OfR9JTfYb4SqtYVbePOjPHlH",
+      "hostname": "seleniumreal.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.1"
+  },
+  "ctime": 1635534915,
+  "expire_in": 504576000,
+  "prev": "2c84531469d20bacd8ab49a0295dcbb082f8f2baccd0d64f6369c036c0bb96bd",
+  "seqno": 61,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjYC7Sufi9/qp0G3xmb1/98Qf3eR24xmd896pFMJE+gsKp3BheWxvYWTESpcCPcQgLIRTFGnSC6zYq0mgKV3LsIL48rrM0NZPY2nANsC7lr3EIAAMqdwXyyQIQX4gxsJd3CTLjKOoIWwDB2KCr5nLGpGPAgHCo3NpZ8RAf4FjeBgA9R5nzFc1N2HMQV2WkX1eFWWvyE00J2zx6QVcu3L0ze77612tctXy0NHGcmptBW2kQRUR/PHAG0XkBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIByClh3NXSSZATW7jnWLF0WDW/YMX3tktw5UnNrbrBK5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/seleniy
+
+==================================================================
